@@ -8,7 +8,7 @@ It is an IOT based project made using various electrical and electronics compone
 
 - ###  ARDUINO UNO
 
-![Logo](https://github.com/rishabh7das/Smart-Plantation-System/blob/main/smart%20plantation%20system/Light%20sensor.jpg?raw=true)
+![Logo](https://github.com/rishabh7das/Smart-Plantation-System/blob/main/smart%20plantation%20system/audrino.jpg)
 
 The Arduino Uno is a popular and versatile microcontroller board that forms the cornerstone of the Arduino platform. Developed by Arduino LLC, the Arduino Uno is based on the ATmega328P microcontroller and provides a user-friendly and open-source platform for electronics enthusiasts, hobbyists, and professionals to develop a wide range of projects. The board features a set of digital and analog input/output pins, along with various communication interfaces like USB, UART, and I2C.
 
